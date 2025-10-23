@@ -46,6 +46,6 @@
 
 Для примера понимания посмотрите код [example-2.py](https://github.com/Pro100-Almaz/Python-Concurrency-with-asyncio/blob/108b3e5bb7d16bfac9f8b17baa57ca7a31d5bddc/chapter_1/example-2.py).
 
-<img alt="img_3.png" height="364" src="img_3.png" width="552" style="display: block; margin: auto;"/>
+<img alt="img_3.png" height="770" src="img_3.png" width="714" style="display: block; margin: auto;"/>
 
 Также можно сделать несколько процессов [example-3.py](https://github.com/Pro100-Almaz/Python-Concurrency-with-asyncio/blob/108b3e5bb7d16bfac9f8b17baa57ca7a31d5bddc/chapter_1/example-3.py).
