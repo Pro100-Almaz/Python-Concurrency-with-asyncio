@@ -12,4 +12,9 @@
 входа, передавая сопрограмму в **run**, или можно обернуть _main()_ файл для начальной точки запуская цепочку
 кода и ожидая сопрограмму через **await**. Для примера можно посмотреть этот код:
 
-[example-1.py](https://github.com/Pro100-Almaz/Python-Concurrency-with-asyncio/blob/108b3e5bb7d16bfac9f8b17baa57ca7a31d5bddc/chapter_1/example-1.py)
+[example-1.py](https://github.com/Pro100-Almaz/Python-Concurrency-with-asyncio/blob/87b3485e65f6e9123372e392beca9b2574d613a8/chapter_2/example-1.py)
+
+Визуальная иллюстрация:
+
+<img alt="img_1.png" height="486" src="img_1.png" width="1015" style="display: block; margin: auto;"/>
+
